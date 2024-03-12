@@ -1,0 +1,102 @@
+.containera {
+  width: 325px;
+  color:black;
+  border-radius: 10px;
+  padding: 30px 30px;
+  height: 75%;
+  background: transparent;
+  border: 2px solid;
+  background-color:  hsl(107, 17%, 78%);
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  padding-top: 15px;
+}
+
+.form-groupa {
+  margin-bottom: 10px;
+}
+
+.radio-groupa  {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 1px;
+}
+
+.radio-groupa label {
+  margin-top: 5px;
+}
+
+.radio-groupa input {
+  width: 10%;
+  padding: 0;
+}
+
+.containera h2{
+    justify-content: center;
+    color:#29c2a6;
+    text-align: center;
+    font: bold;
+    text-decoration: underline;
+    padding-bottom: 8px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
+}
+
+.country-code {
+  width: 20%;
+  margin-right: -9px;
+}
+
+label,p {
+  display: block;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  margin-left: 15px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 17px;
+}
+
+p{
+  color:white;
+}
+
+input {
+  width: 300px;
+  margin-left: 15px;
+  padding: 8px;
+  box-sizing: border-box;
+  margin-top: 5px;
+  border: 1px;
+  border-radius: 5px;
+}
+
+.phone_number {
+  width: 400px;
+  margin-left: 6px;
+  padding: 8px;
+  box-sizing: border-box;
+  margin-top: 5px;
+  border: 1px;
+  border-radius: 8px;
+}
+
+.save{
+  display: inline;
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  outline: auto;
+  border: 1px;
+  background:#29c2a6;
+  justify-content: center;
+  text-align: center;
+  margin-left:110px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  font-weight: 700;
+  font-size: 17px;
+  color: white; 
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

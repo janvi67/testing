@@ -1,0 +1,198 @@
+.containerl {
+  width: 345px;
+  color:black;
+  border-radius: 10px;
+  padding: 30px 30px;
+  height: 100%;
+  background: transparent;
+  border: 2px solid;
+  background-color: hsl(107, 17%, 78%);
+  margin-left: auto;
+  padding-top: auto;
+  padding-bottom: 10px;
+  margin-right: auto;
+  align-items: center;
+  justify-content: center;
+  margin-top: 165px;
+}
+.containerr{
+  width: 345px;
+  color:black;
+  border-radius: 10px;
+  padding: 30px 30px;
+  height: 100%;
+  background: transparent;
+  border: 2px solid;
+  background-color: hsl(107, 17%, 78%);
+  margin-left: auto;
+  padding-top: auto;
+  padding-bottom: 10px;
+  margin-right: auto;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 200px;
+}
+
+
+.form-groupl {
+  margin-bottom: 10px;
+  margin-top: 5px;
+}   
+
+.containerl h2{
+  justify-content: center;
+  padding-top: 1px;
+  color:#29c2a6;
+  text-align: center;
+  font: bold;
+  text-decoration: underline;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.signup{
+  justify-content: center;
+  padding-top: 1px;
+  color:#29c2a6;
+  text-align: center;
+  font: bold;
+  text-decoration: underline;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.labell {
+  display: block;
+  margin-bottom: 5px;
+  margin-top: 8px;
+  margin-left: 25px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 17px;
+}
+
+.inputl {
+  width: 300px;
+  margin-left: 25px;
+  padding: 8px;
+  box-sizing: border-box;
+  margin-top: 5px;
+  border: 1px;
+  border-radius: 5px;
+}
+
+.inputl::placeholder { 
+  color:gray;
+  position:absolute;
+}
+
+.iconl {
+  position:relative;
+  right: 50px;
+  top: 50%;
+  transform: translateY(15%);
+}
+
+.iconll {
+  position: relative;
+  right:-300px;
+  top:-25px;
+}
+.icone {
+  position: relative;
+  right:25px;
+  top:-33px;
+  margin-left:325px;
+}
+
+.iconle {
+  position: relative;
+  right:25px;
+  top:5px;
+}
+
+.forgotl {
+  display: flex;
+  justify-content: left;
+}
+
+.forgotl input {
+  width: 5%;
+  margin: 10px;
+  margin-left: 2px;
+  margin-top: 5px;
+}
+.pass{
+  margin-left: 25px;
+  color: red;
+}
+
+.forgotl span {
+  margin-left: -5px;
+  padding-right: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 17px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.forgotl a {
+  margin-left: 1px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 17px;
+}
+.register-link{
+    font-size: 12px;
+    text-align: center;
+}
+
+.forgotl {
+  display: inline;
+  justify-content: space-between;
+  font-size: 15px;
+  margin-left: 25px;
+}
+
+.forgotl label input{
+  accent-color: #fff;
+  margin-left: 4px;
+  margin-right: 2px;
+  top: 20%;
+}
+.f{
+  color: blue;
+  text-decoration: underline;
+}
+.p{
+  color: black;
+}
+.button {
+  width: 50%;
+  height: 40px;
+  border-radius: 10px;
+  outline: auto;
+  border: 1px;
+  background:#29c2a6;
+  justify-content: center;
+  text-align: center;
+  margin-left: 80px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  font-weight: 700;
+  font-size: 18px;
+  color: white;
+}
+.buttonf {
+  width: 50%;
+  height: 40px;
+  border-radius: 10px;
+  outline: auto;
+  border: 1px;
+  background:#29c2a6;
+  justify-content: center;
+  text-align: center;
+  margin-left: 80px;
+  margin-top: -20px;
+  margin-bottom: 15px;
+  font-weight: 700;
+  font-size: 18px;
+  color: white;
+}

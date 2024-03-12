@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\StudentApp\\Back-End\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B9288C-48DB-46D4-8C43-CB32106DA883}|TestCoreApi\\TestCoreApi.csproj|c:\\studentapp\\back-end\\testcoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8B9288C-48DB-46D4-8C43-CB32106DA883}|TestCoreApi\\TestCoreApi.csproj|solutionrelative:testcoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B9288C-48DB-46D4-8C43-CB32106DA883}|TestCoreApi\\TestCoreApi.csproj|c:\\studentapp\\back-end\\testcoreapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B9288C-48DB-46D4-8C43-CB32106DA883}|TestCoreApi\\TestCoreApi.csproj|solutionrelative:testcoreapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B9288C-48DB-46D4-8C43-CB32106DA883}|TestCoreApi\\TestCoreApi.csproj|c:\\studentapp\\back-end\\testcoreapi\\controllers\\familymembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B9288C-48DB-46D4-8C43-CB32106DA883}|TestCoreApi\\TestCoreApi.csproj|solutionrelative:testcoreapi\\controllers\\familymembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FamilyMemberController.cs",
+              "DocumentMoniker": "C:\\StudentApp\\Back-End\\TestCoreAPI\\Controllers\\FamilyMemberController.cs",
+              "RelativeDocumentMoniker": "TestCoreAPI\\Controllers\\FamilyMemberController.cs",
+              "ToolTip": "C:\\StudentApp\\Back-End\\TestCoreAPI\\Controllers\\FamilyMemberController.cs",
+              "RelativeToolTip": "TestCoreAPI\\Controllers\\FamilyMemberController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:07:55.549Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\StudentApp\\Back-End\\TestCoreAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TestCoreAPI\\appsettings.json",
+              "ToolTip": "C:\\StudentApp\\Back-End\\TestCoreAPI\\appsettings.json",
+              "RelativeToolTip": "TestCoreAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-11T10:34:23.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\StudentApp\\Back-End\\TestCoreAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TestCoreAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\StudentApp\\Back-End\\TestCoreAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TestCoreAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T07:20:10.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

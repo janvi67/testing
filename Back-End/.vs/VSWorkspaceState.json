@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TestCoreAPI",
+    "\\TestCoreAPI\\Controllers",
+    "\\TestCoreAPI\\Data",
+    "\\TestCoreAPI\\Dtos",
+    "\\TestCoreAPI\\Migrations",
+    "\\TestCoreAPI\\Models"
+  ],
+  "SelectedNode": "\\TestCoreAPI.sln",
+  "PreviewInSolutionExplorer": false
+}

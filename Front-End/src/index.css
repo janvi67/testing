@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+  }
+  body{
+  background: url(./Components/Assets/background.jpg);
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: 1535px;
+  background-position-x: 0px;
+  }
