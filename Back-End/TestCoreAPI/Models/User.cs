@@ -10,5 +10,6 @@
         public DateOnly? BirthDate { get; set; }
         public long? MobileNumber { get; set; }
         public virtual ICollection<FamilyMember> FamilyMembers { get; set; }
+        //ddfdfffdf
     }
 }
