@@ -9,7 +9,7 @@ import { toast, Toaster } from 'react-hot-toast';
 import Swal from 'sweetalert2'; 
 
 const Familydetail = () => {
-
+ 
   //const [email, setEmail] = useState('');
   //const [userId,setUserId]=useState('');
   const [userData, setUserData] = useState({id:'',email:''});
@@ -23,6 +23,7 @@ const Familydetail = () => {
     birthDate: '',
     relation: '',
   });
+  //Family Form
 
   const [familyMembers, setFamilyMembers] = useState([]);
   const [genderError, setGenderError] = useState('');
